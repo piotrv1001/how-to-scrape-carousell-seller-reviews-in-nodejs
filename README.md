@@ -2,6 +2,10 @@
 
 This example calls our Carousell Reviews Scraper on Apify. It does not implement a Carousell scraper from scratch.
 
+![Carousell seller-review dataset with ratings, text, and linked listings](./images/carousell_reviews_results.png)
+
+The screenshot shows `thetechbrosg` from a separate run; the code below uses `litemobile.official`. The hero illustration is in [`images/carousell_reviews_blog.png`](./images/carousell_reviews_blog.png).
+
 ## What this example does
 
 - Sends one Carousell seller profile URL
