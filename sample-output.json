@@ -1,0 +1,27 @@
+[
+  {
+    "recordType": "profile",
+    "username": "litemobile.official",
+    "userId": "4371837",
+    "profileUrl": "https://www.carousell.sg/u/litemobile.official/",
+    "rating": 4.98,
+    "reviewCount": 4464,
+    "positiveReviews": 4449,
+    "neutralReviews": 3,
+    "negativeReviews": 12,
+    "isCommercialSeller": true,
+    "verifiedOrders": 1958
+  },
+  {
+    "recordType": "review",
+    "reviewId": "6e30af9d-0f0f-40c5-ac7f-42c1ff874ffa",
+    "sellerUsername": "litemobile.official",
+    "sellerId": "4371837",
+    "reviewedAs": "seller",
+    "rating": 5,
+    "text": "superb service.  fast delivery",
+    "createdAt": "2026-09-22T06:34:39.506757Z",
+    "listingTitle": "Honor X9c 256GB Titanium Purple",
+    "listingPrice": "S$238"
+  }
+]
